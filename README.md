@@ -145,4 +145,4 @@ services:
 #    "database.history.kafka.topic": "schema-changes.inventory"  // unique name
 #  }
 # }'
-# }'
+# }' 
